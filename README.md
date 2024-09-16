@@ -30,9 +30,20 @@ Since pre-2000, I've been turning lines of code into rewarding creations,
 ## Latest Blog Posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
-- [Get structured output from a Language Model using BAML](https://www.tomsquest.com/blog/2024/08/get-structured-output-from-llm-using-baml/)
-- [Delightful experience with Anthropic Claude LLM](https://www.tomsquest.com/blog/2024/07/using-claude-llm/)
-- [Maximizing Efficiency: A Guide to Caching in Jest, Prettier, ESLint, and TypeScript](https://www.tomsquest.com/blog/2024/06/cache-jest-eslint-prettier-typescript-ci/)
-- [How to configure MSMTP for self-hosted email](https://www.tomsquest.com/blog/2024/06/configure-msmtp-selfhost/)
-- [Think carbon, reduce typescript bundle size](https://www.tomsquest.com/blog/2020/02/think-carbon-reduce-typescript-bundle-size/)
+<p>
+  2024-08-31<br/>
+  <a href="">Get structured output from a Language Model using BAML</a><br />
+  <blockquote>What if your LLM produces invalid JSON, and worse, JSON that does not respect your schema? Let us dig into BAML, a tool to solve that, and more!</blockquote>
+</p>
+
+<p>$emojiKey(💯,🔥,💫,🚀,🌮) $date$newline<a href="$url">$title</a>$newline<blockquote>$description</blockquote></p>
+
+[Delightful experience with Anthropic Claude LLM](https://www.tomsquest.com/blog/2024/07/using-claude-llm/)
+
+[Maximizing Efficiency: A Guide to Caching in Jest, Prettier, ESLint, and TypeScript](https://www.tomsquest.com/blog/2024/06/cache-jest-eslint-prettier-typescript-ci/)
+
+[How to configure MSMTP for self-hosted email](https://www.tomsquest.com/blog/2024/06/configure-msmtp-selfhost/)
+
+[Think carbon, reduce typescript bundle size](https://www.tomsquest.com/blog/2020/02/think-carbon-reduce-typescript-bundle-size/)
+
 <!-- BLOG-POST-LIST:END -->

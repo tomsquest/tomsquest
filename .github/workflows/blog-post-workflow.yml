@@ -15,3 +15,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.tomsquest.com/atom.xml"
+          max_post_count: 5
+          template: "$newline$randomEmoji(⭐,🔥,💫,🚀,✨) $date $newline [$title]($url) $newline > $description $newline"
+          date_format: "yyyy-mm-dd"
