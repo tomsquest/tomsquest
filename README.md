@@ -26,3 +26,8 @@ Since pre-2000, I've been turning lines of code into rewarding creations,
 - <a href="https://www.tomsquest.com" title="blog">tomsquest.com</a> 💕
 - <a href="https://www.linkedin.com/in/thomasqueste" title="View Thomas Queste's profile on LinkedIn">LinkedIn</a>
 - <a href="https://twitter.com/ThomasQueste" title="View Thomas Queste's profile on Twitter">X/Twitter</a>
+
+## Latest Blog Posts ✍️
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
