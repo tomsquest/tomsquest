@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Add latest posts to README
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -16,5 +16,5 @@ jobs:
         with:
           feed_list: "https://www.tomsquest.com/atom.xml"
           max_post_count: 5
-          template: "$newline$randomEmoji(⭐,🔥,💫,🚀,✨) $date $newline [$title]($url) $newline > $description $newline"
+          template: "$newline$randomEmoji(⭐,🔥,💫,🚀,✨) $date $newline [$title]($url) $newline"
           date_format: "yyyy-mm-dd"
