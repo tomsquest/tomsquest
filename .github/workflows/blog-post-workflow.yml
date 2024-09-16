@@ -16,5 +16,5 @@ jobs:
         with:
           feed_list: "https://www.tomsquest.com/atom.xml"
           max_post_count: 5
-          template: "$newline$randomEmoji(⭐,🔥,💫,🚀,✨) $date $newline [$title]($url) $newline"
+          template: "$newline$emojiKey(⭐,🔥,💫,🚀,✨) $date $newline [$title]($url) $newline"
           date_format: "yyyy-mm-dd"
