@@ -13,7 +13,7 @@ Since pre-2000, I've been turning lines of code into rewarding creations,
 
 [![tomsquest.com](https://img.shields.io/badge/blog-red?style=for-the-badge&label=tomsquest.com&color=blue)](https://www.tomsquest.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&label=Thomas%20Queste&color=blue)](https://www.linkedin.com/in/thomasqueste)
-[![Twitter/X](https://img.shields.io/badge/Twitter-0a66c2?style=for-the-badge&label=Thomas%20Queste&color=blue)](https://twitter.com/tomsquest)
+[![Twitter/X](https://img.shields.io/badge/Twitter-0a66c2?style=for-the-badge&label=Thomas%20Queste&color=blue)](https://x.com/thomasqueste)
 
 ## Latest Posts from [tomsquest.com](https://www.tomsquest.com) ✍️
 
