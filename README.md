@@ -2,31 +2,17 @@
 
 ## Who am I?
 
-I'm a **developer**, and I build **products**.
+```typescript
+type Tom = Developer & Product;
+```
 
 Since pre-2000, I've been turning lines of code into rewarding creations,
   awkward bugs, and unexpected dance parties when the code finally works! 🎉
 
-## Highlights
-
-- Running my own company since 2013
-- Founded three startups
-- Quick transition from idea to execution — I call it Extreme Pragmatism (Better to have a database in a JSON file than fancy slides)
-- Certified in Java, ElasticSearch, and MongoDB, but also Finance
-- Beginner in Machine Learning (classification, Learning-to-Rank, Deep learning...)
-
-## Fun Facts
-
-- In 1999, my first website was fully designed with HTML tables (didn't know about divs!)
-- I enjoy running and riding bicycles in all weather, from -15°C to 40°C
-- As a minimalist, I've been running in zero drop shoes since 2008 (proud owner of Xero shoes)
-
-## Links
+## Social links
 
 [![tomsquest.com](https://img.shields.io/badge/blog-red?style=for-the-badge&label=tomsquest.com&color=blue)](https://www.tomsquest.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&label=Thomas%20Queste&color=blue)](https://www.linkedin.com/in/thomasqueste)
-
 [![Twitter/X](https://img.shields.io/badge/Twitter-0a66c2?style=for-the-badge&label=Thomas%20Queste&color=blue)](https://twitter.com/tomsquest)
 
 ## Latest Posts from [tomsquest.com](https://www.tomsquest.com) ✍️
