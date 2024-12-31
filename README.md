@@ -18,18 +18,18 @@ Since pre-2000, I've been turning lines of code into rewarding creations,
 ## Latest Posts from [tomsquest.com](https://www.tomsquest.com) ✍️
 
 <!-- BLOG-POST-LIST:START -->
-⭐ 2024-09-28 
+⭐ 2024-12-30 
+ [Bulletproof Your Files in 2025: The Syncthing + Restic Setup](https://www.tomsquest.com/blog/2024/12/syncthing-restic-backup-setup-2025/) 
+
+🔥 2024-09-28 
  [You need a MacroPad](https://www.tomsquest.com/blog/2024/09/you-need-a-macropad/) 
 
-🔥 2024-08-31 
+💫 2024-08-31 
  [Get structured output from a Language Model using BAML](https://www.tomsquest.com/blog/2024/08/get-structured-output-from-llm-using-baml/) 
 
-💫 2024-07-27 
+🚀 2024-07-27 
  [Delightful experience with Anthropic Claude LLM](https://www.tomsquest.com/blog/2024/07/using-claude-llm/) 
 
-🚀 2024-06-22 
+✨ 2024-06-22 
  [Maximizing Efficiency: A Guide to Caching in Jest, Prettier, ESLint, and TypeScript](https://www.tomsquest.com/blog/2024/06/cache-jest-eslint-prettier-typescript-ci/) 
-
-✨ 2024-06-15 
- [How to configure MSMTP for self-hosted email](https://www.tomsquest.com/blog/2024/06/configure-msmtp-selfhost/) 
 <!-- BLOG-POST-LIST:END -->
