@@ -18,18 +18,18 @@ Since pre-2000, I've been turning lines of code into rewarding creations,
 ## Latest Posts from [tomsquest.com](https://www.tomsquest.com) ✍️
 
 <!-- BLOG-POST-LIST:START -->
-⭐ 2025-01-03 
+⭐ 2025-03-01 
+ [Streaming data from BigQuery with TypeScript, Fast!](https://www.tomsquest.com/blog/2025/03/bigquery-streaming-typescript/) 
+
+🔥 2025-01-03 
  [Ransomware-Resistant Backups with Kopia and Scaleway Object Lock](https://www.tomsquest.com/blog/2025/01/kopia-scaleway-object-lock/) 
 
-🔥 2024-12-31 
+💫 2024-12-31 
  [Backup with Restic](https://www.tomsquest.com/blog/2024/12/backup-restic-setup/) 
 
-💫 2024-12-30 
+🚀 2024-12-30 
  [Bulletproof Your Files in 2025: The Syncthing + Restic Setup](https://www.tomsquest.com/blog/2024/12/syncthing-restic-backup-setup-2025/) 
 
-🚀 2024-09-28 
+✨ 2024-09-28 
  [You need a MacroPad](https://www.tomsquest.com/blog/2024/09/you-need-a-macropad/) 
-
-✨ 2024-08-31 
- [Get structured output from a Language Model using BAML](https://www.tomsquest.com/blog/2024/08/get-structured-output-from-llm-using-baml/) 
 <!-- BLOG-POST-LIST:END -->
