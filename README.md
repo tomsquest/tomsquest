@@ -18,18 +18,18 @@ Since pre-2000, I've been turning lines of code into rewarding creations,
 ## Latest Posts from [tomsquest.com](https://www.tomsquest.com) ✍️
 
 <!-- BLOG-POST-LIST:START -->
-⭐ 2025-03-23 
- [Improving Elasticsearch Performance with Compression in Node.js](https://www.tomsquest.com/blog/2025/03/elasticsearch-enable-compression/) 
+⭐ 2025-04-16 
+ [Elasticsearch 101: Shards vs Replicas](https://www.tomsquest.com/blog/2025/04/elasticsearch-101-shards-vs-replicas/) 
 
-🔥 2025-03-01 
- [Streaming data from BigQuery with TypeScript, Fast!](https://www.tomsquest.com/blog/2025/03/bigquery-streaming-typescript/) 
+🔥 2025-04-13 
+ [Elasticsearch 101: Object vs Nested](https://www.tomsquest.com/blog/2025/04/elasticsearch-101-object-and-nested/) 
 
-💫 2025-01-03 
- [Ransomware-Resistant Backups with Kopia and Scaleway Object Lock](https://www.tomsquest.com/blog/2025/01/kopia-scaleway-object-lock/) 
+💫 2025-04-10 
+ [Elasticsearch tips: auto_expand_replicas](https://www.tomsquest.com/blog/2025/04/elasticsearch-tips-auto-expand-replicas/) 
 
-🚀 2024-12-31 
- [Backup with Restic](https://www.tomsquest.com/blog/2024/12/backup-restic-setup/) 
+🚀 2025-04-04 
+ [Elasticsearch best practice: disable dynamic mapping](https://www.tomsquest.com/blog/2025/04/elasticsearch-best-practice-disable-dynamic-mapping/) 
 
-✨ 2024-12-30 
- [Bulletproof Your Files in 2025: The Syncthing + Restic Setup](https://www.tomsquest.com/blog/2024/12/syncthing-restic-backup-setup-2025/) 
+✨ 2025-04-01 
+ [Elasticsearch best practice: aliases](https://www.tomsquest.com/blog/2025/04/elasticsearch-best-practice-aliases/) 
 <!-- BLOG-POST-LIST:END -->
