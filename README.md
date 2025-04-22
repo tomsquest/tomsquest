@@ -18,18 +18,18 @@ Since pre-2000, I've been turning lines of code into rewarding creations,
 ## Latest Posts from [tomsquest.com](https://www.tomsquest.com) ✍️
 
 <!-- BLOG-POST-LIST:START -->
-⭐ 2025-04-16 
+⭐ 2025-04-21 
+ [Kibana most useful keyboard shortcuts](https://www.tomsquest.com/blog/2025/04/kibana-most-useful-keyboard-shortcuts/) 
+
+🔥 2025-04-16 
  [Elasticsearch 101: Shards vs Replicas](https://www.tomsquest.com/blog/2025/04/elasticsearch-101-shards-vs-replicas/) 
 
-🔥 2025-04-13 
+💫 2025-04-13 
  [Elasticsearch 101: Object vs Nested](https://www.tomsquest.com/blog/2025/04/elasticsearch-101-object-and-nested/) 
 
-💫 2025-04-10 
+🚀 2025-04-10 
  [Elasticsearch tips: auto_expand_replicas](https://www.tomsquest.com/blog/2025/04/elasticsearch-tips-auto-expand-replicas/) 
 
-🚀 2025-04-04 
+✨ 2025-04-04 
  [Elasticsearch best practice: disable dynamic mapping](https://www.tomsquest.com/blog/2025/04/elasticsearch-best-practice-disable-dynamic-mapping/) 
-
-✨ 2025-04-01 
- [Elasticsearch best practice: aliases](https://www.tomsquest.com/blog/2025/04/elasticsearch-best-practice-aliases/) 
 <!-- BLOG-POST-LIST:END -->
